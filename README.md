@@ -1,10 +1,10 @@
 <table>
-<tr><td valign="top" width="40%"></td>
-<td valign="top" width="20%">
+<tr><td valign="top" width="25%"></td>
+<td valign="top" width="50%">
 
 # Rights Digital  
 
-</td><td valign="top" width="40%">
+</td><td valign="top" width="25%">
 </td></tr>
 
 <tr><td valign="top" width="25%">
