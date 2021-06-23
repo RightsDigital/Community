@@ -1,5 +1,5 @@
 <table style="border-collapse: collapse; border: none;">
-<tr><td valign="top" width="25%"></td>
+<tr style="border: none;"><td valign="top" width="25%"></td>
 <td valign="top" width="50%">
 
 # Rights Digital  
