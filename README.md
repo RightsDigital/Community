@@ -1,4 +1,4 @@
-<table>
+<table style="border-collapse: collapse; border: none;">
 <tr><td valign="top" width="25%"></td>
 <td valign="top" width="50%">
 
