@@ -1,5 +1,13 @@
-# Rights Digital
-<table><tr><td valign="top" width="25%">
+<table>
+<tr><td valign="top" width="40%"></td>
+<td valign="top" width="20%">
+
+# Rights Digital  
+
+</td><td valign="top" width="40%">
+</td></tr>
+
+<tr><td valign="top" width="25%">
 </td><td valign="top" width="50%">
  
 ![image](https://user-images.githubusercontent.com/6586811/123034597-6f997e80-d3af-11eb-9b26-f0ca03176ed9.png)
