@@ -1,4 +1,6 @@
-# Rights Digital  
+# Rights Digital
+
+Digital community to study, understand and uphold our inalienable rights.
 
 <table><tr ><td valign="top" width="25%"></td><td valign="top" width="50%">
  
